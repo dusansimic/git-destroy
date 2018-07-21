@@ -1,6 +1,6 @@
 {
   "name": "git-destroy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Destroy local git repository (remove .git folder and all asociated files).",
   "main": "index.js",
   "repository": "https://github.com/dusansimic/git-destroy",
